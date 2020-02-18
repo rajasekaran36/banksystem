@@ -1,0 +1,5 @@
+com\kgisl\basic\App.class
+com\kgisl\basic\BankAccount.class
+com\kgisl\basic\Customer.class
+com\kgisl\basic\CurrentAccount.class
+com\kgisl\basic\Transaction.class
